@@ -7,3 +7,5 @@ Day 16-: Intermediate Pyton
   18~21: Turtle
   
   24: Directory, Read, Open
+  
+  25: pandas, csv data
