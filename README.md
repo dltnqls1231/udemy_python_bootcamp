@@ -11,7 +11,7 @@ Day 16: OOP
 
 Day 17: Class
 
-Day 18~21: Turtle
+Day 18~23: Turtle
   
 Day 24: Directory, Read, Open
   
