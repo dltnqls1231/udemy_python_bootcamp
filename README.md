@@ -18,3 +18,5 @@ Day 24: Directory, Read, Open
 Day 25: Pandas, csv data
 
 Day 26: List comprehension, Dict comprehension
+
+Day 27: Tkinter, *args, **kwargs
