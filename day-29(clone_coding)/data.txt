@@ -1,0 +1,4 @@
+Amazon | subinlee@gmail.com | password
+Facebook | subinlee@gmail.com | 123456
+google | subinlee@gmail.com | 12345678
+mine | subinlee@gmail.com | 123
