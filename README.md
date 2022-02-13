@@ -19,4 +19,4 @@ Day 25: Pandas, csv data
 
 Day 26: List comprehension, Dict comprehension
 
-Day 27: Tkinter, *args, **kwargs
+Day 27~29: Tkinter, Dynamic typing, *args, **kwargs
