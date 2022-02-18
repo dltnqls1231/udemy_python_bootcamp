@@ -22,3 +22,9 @@ Day 26: List comprehension, Dict comprehension
 Day 27~29: Tkinter, Dynamic typing, *args, **kwargs
 
 Day 30: try: except: else: finally: raise:, json
+
+Day 31: 프로젝트 실습(skip)
+
+Day 32: smtplib, datetime(강의만, Coding X)
+
+Day 33: API
